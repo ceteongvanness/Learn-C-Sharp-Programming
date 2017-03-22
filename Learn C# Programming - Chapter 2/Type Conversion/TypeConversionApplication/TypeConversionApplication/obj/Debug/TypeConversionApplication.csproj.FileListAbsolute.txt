@@ -1,0 +1,5 @@
+c:\users\et.cheah\documents\visual studio 2015\Projects\TypeConversionApplication\TypeConversionApplication\bin\Debug\TypeConversionApplication.exe.config
+c:\users\et.cheah\documents\visual studio 2015\Projects\TypeConversionApplication\TypeConversionApplication\bin\Debug\TypeConversionApplication.exe
+c:\users\et.cheah\documents\visual studio 2015\Projects\TypeConversionApplication\TypeConversionApplication\bin\Debug\TypeConversionApplication.pdb
+c:\users\et.cheah\documents\visual studio 2015\Projects\TypeConversionApplication\TypeConversionApplication\obj\Debug\TypeConversionApplication.exe
+c:\users\et.cheah\documents\visual studio 2015\Projects\TypeConversionApplication\TypeConversionApplication\obj\Debug\TypeConversionApplication.pdb
