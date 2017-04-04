@@ -1,0 +1,5 @@
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\BitwiseOperators\bin\Debug\BitwiseOperators.exe.config
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\BitwiseOperators\bin\Debug\BitwiseOperators.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\BitwiseOperators\bin\Debug\BitwiseOperators.pdb
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\BitwiseOperators\obj\Debug\BitwiseOperators.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\BitwiseOperators\obj\Debug\BitwiseOperators.pdb

@@ -1,0 +1,5 @@
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorPrecedenceinCSharp\bin\Debug\OperatorPrecedenceinCSharp.exe.config
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorPrecedenceinCSharp\bin\Debug\OperatorPrecedenceinCSharp.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorPrecedenceinCSharp\bin\Debug\OperatorPrecedenceinCSharp.pdb
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorPrecedenceinCSharp\obj\Debug\OperatorPrecedenceinCSharp.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorPrecedenceinCSharp\obj\Debug\OperatorPrecedenceinCSharp.pdb

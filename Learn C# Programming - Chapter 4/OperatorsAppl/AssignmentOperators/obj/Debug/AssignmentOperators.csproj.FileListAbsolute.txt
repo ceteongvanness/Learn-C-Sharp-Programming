@@ -1,0 +1,5 @@
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\AssignmentOperators\bin\Debug\AssignmentOperators.exe.config
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\AssignmentOperators\bin\Debug\AssignmentOperators.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\AssignmentOperators\bin\Debug\AssignmentOperators.pdb
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\AssignmentOperators\obj\Debug\AssignmentOperators.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\AssignmentOperators\obj\Debug\AssignmentOperators.pdb

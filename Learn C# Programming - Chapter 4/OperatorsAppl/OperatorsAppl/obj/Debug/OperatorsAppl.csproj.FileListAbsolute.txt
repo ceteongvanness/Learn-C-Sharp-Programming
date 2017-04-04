@@ -1,0 +1,6 @@
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorsAppl\bin\Debug\OperatorsAppl.exe.config
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorsAppl\bin\Debug\OperatorsAppl.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorsAppl\bin\Debug\OperatorsAppl.pdb
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorsAppl\obj\Debug\OperatorsAppl.csprojResolveAssemblyReference.cache
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorsAppl\obj\Debug\OperatorsAppl.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\OperatorsAppl\obj\Debug\OperatorsAppl.pdb
