@@ -1,0 +1,6 @@
+c:\users\ceteo\documents\visual studio 2017\Projects\VariableDefinition\VariableDefinition\bin\Debug\VariableDefinition.exe.config
+c:\users\ceteo\documents\visual studio 2017\Projects\VariableDefinition\VariableDefinition\bin\Debug\VariableDefinition.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\VariableDefinition\VariableDefinition\bin\Debug\VariableDefinition.pdb
+c:\users\ceteo\documents\visual studio 2017\Projects\VariableDefinition\VariableDefinition\obj\Debug\VariableDefinition.csprojResolveAssemblyReference.cache
+c:\users\ceteo\documents\visual studio 2017\Projects\VariableDefinition\VariableDefinition\obj\Debug\VariableDefinition.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\VariableDefinition\VariableDefinition\obj\Debug\VariableDefinition.pdb
