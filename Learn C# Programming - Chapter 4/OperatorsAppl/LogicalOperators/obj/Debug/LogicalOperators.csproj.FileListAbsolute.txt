@@ -1,5 +1,0 @@
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\LogicalOperators\bin\Debug\LogicalOperators.exe.config
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\LogicalOperators\bin\Debug\LogicalOperators.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\LogicalOperators\bin\Debug\LogicalOperators.pdb
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\LogicalOperators\obj\Debug\LogicalOperators.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\LogicalOperators\obj\Debug\LogicalOperators.pdb

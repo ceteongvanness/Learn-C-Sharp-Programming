@@ -1,5 +1,0 @@
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\ArrayClass\bin\Debug\ArrayClass.exe.config
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\ArrayClass\bin\Debug\ArrayClass.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\ArrayClass\bin\Debug\ArrayClass.pdb
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\ArrayClass\obj\Debug\ArrayClass.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\ArrayClass\obj\Debug\ArrayClass.pdb

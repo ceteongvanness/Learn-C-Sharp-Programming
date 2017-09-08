@@ -1,5 +1,0 @@
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\DoWhileLoop\bin\Debug\DoWhileLoop.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\DoWhileLoop\obj\Debug\DoWhileLoop.pdb

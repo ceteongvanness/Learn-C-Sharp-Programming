@@ -1,5 +1,0 @@
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\OutputParameters\bin\Debug\OutputParameters.exe.config
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\OutputParameters\bin\Debug\OutputParameters.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\OutputParameters\bin\Debug\OutputParameters.pdb
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\OutputParameters\obj\Debug\OutputParameters.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\OutputParameters\obj\Debug\OutputParameters.pdb

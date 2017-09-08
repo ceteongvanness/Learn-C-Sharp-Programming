@@ -1,5 +1,0 @@
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\NestedLoop\bin\Debug\NestedLoop.exe.config
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\NestedLoop\bin\Debug\NestedLoop.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\NestedLoop\bin\Debug\NestedLoop.pdb
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\NestedLoop\obj\Debug\NestedLoop.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Loops\NestedLoop\obj\Debug\NestedLoop.pdb

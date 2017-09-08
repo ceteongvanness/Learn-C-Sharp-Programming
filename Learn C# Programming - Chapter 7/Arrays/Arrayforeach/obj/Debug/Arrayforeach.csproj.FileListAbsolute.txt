@@ -1,5 +1,0 @@
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\Arrayforeach\bin\Debug\Arrayforeach.exe.config
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\Arrayforeach\bin\Debug\Arrayforeach.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\Arrayforeach\bin\Debug\Arrayforeach.pdb
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\Arrayforeach\obj\Debug\Arrayforeach.exe
-c:\Users\et.cheah\documents\visual studio 2015\Projects\Arrays\Arrayforeach\obj\Debug\Arrayforeach.pdb

@@ -1,5 +1,0 @@
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\ReferenceParameters\bin\Debug\ReferenceParameters.exe.config
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\ReferenceParameters\bin\Debug\ReferenceParameters.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\ReferenceParameters\bin\Debug\ReferenceParameters.pdb
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\ReferenceParameters\obj\Debug\ReferenceParameters.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\ReferenceParameters\obj\Debug\ReferenceParameters.pdb

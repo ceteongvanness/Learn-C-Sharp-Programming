@@ -1,6 +1,0 @@
-c:\users\et.cheah\documents\visual studio 2015\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
-c:\users\et.cheah\documents\visual studio 2015\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
-c:\users\et.cheah\documents\visual studio 2015\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojResolveAssemblyReference.cache
-c:\users\et.cheah\documents\visual studio 2015\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb

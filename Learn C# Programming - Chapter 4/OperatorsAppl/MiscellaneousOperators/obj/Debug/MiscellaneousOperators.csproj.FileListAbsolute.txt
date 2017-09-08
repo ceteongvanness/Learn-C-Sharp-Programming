@@ -1,5 +1,0 @@
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\MiscellaneousOperators\bin\Debug\MiscellaneousOperators.exe.config
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\MiscellaneousOperators\bin\Debug\MiscellaneousOperators.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\MiscellaneousOperators\bin\Debug\MiscellaneousOperators.pdb
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\MiscellaneousOperators\obj\Debug\MiscellaneousOperators.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\OperatorsAppl\MiscellaneousOperators\obj\Debug\MiscellaneousOperators.pdb

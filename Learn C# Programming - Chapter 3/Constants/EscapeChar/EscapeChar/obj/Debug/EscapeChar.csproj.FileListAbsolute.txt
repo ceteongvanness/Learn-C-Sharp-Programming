@@ -1,5 +1,0 @@
-c:\users\ceteo\documents\visual studio 2017\Projects\EscapeChar\EscapeChar\bin\Debug\EscapeChar.exe.config
-c:\users\ceteo\documents\visual studio 2017\Projects\EscapeChar\EscapeChar\bin\Debug\EscapeChar.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\EscapeChar\EscapeChar\bin\Debug\EscapeChar.pdb
-c:\users\ceteo\documents\visual studio 2017\Projects\EscapeChar\EscapeChar\obj\Debug\EscapeChar.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\EscapeChar\EscapeChar\obj\Debug\EscapeChar.pdb

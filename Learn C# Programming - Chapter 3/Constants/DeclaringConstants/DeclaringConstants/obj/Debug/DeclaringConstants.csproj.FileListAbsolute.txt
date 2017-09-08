@@ -1,5 +1,0 @@
-c:\users\ceteo\documents\visual studio 2017\Projects\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
-c:\users\ceteo\documents\visual studio 2017\Projects\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
-c:\users\ceteo\documents\visual studio 2017\Projects\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.exe
-c:\users\ceteo\documents\visual studio 2017\Projects\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.pdb

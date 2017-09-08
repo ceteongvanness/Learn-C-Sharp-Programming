@@ -1,5 +1,0 @@
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingifelseelse\bin\Debug\DecisionMakingifelseelse.exe.config
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingifelseelse\bin\Debug\DecisionMakingifelseelse.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingifelseelse\bin\Debug\DecisionMakingifelseelse.pdb
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingifelseelse\obj\Debug\DecisionMakingifelseelse.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingifelseelse\obj\Debug\DecisionMakingifelseelse.pdb

@@ -1,5 +1,0 @@
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingnestedswitch\bin\Debug\DecisionMakingnestedswitch.exe.config
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingnestedswitch\bin\Debug\DecisionMakingnestedswitch.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingnestedswitch\bin\Debug\DecisionMakingnestedswitch.pdb
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingnestedswitch\obj\Debug\DecisionMakingnestedswitch.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\DecisionMaking\DecisionMakingnestedswitch\obj\Debug\DecisionMakingnestedswitch.pdb

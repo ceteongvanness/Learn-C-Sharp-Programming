@@ -1,6 +1,0 @@
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\PassingParamters\bin\Debug\PassingParamters.exe.config
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\PassingParamters\bin\Debug\PassingParamters.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\PassingParamters\bin\Debug\PassingParamters.pdb
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\PassingParamters\obj\Debug\ValueParameters.csprojResolveAssemblyReference.cache
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\PassingParamters\obj\Debug\PassingParamters.exe
-c:\users\et.cheah\documents\visual studio 2015\Projects\PassingParamters\PassingParamters\obj\Debug\PassingParamters.pdb
