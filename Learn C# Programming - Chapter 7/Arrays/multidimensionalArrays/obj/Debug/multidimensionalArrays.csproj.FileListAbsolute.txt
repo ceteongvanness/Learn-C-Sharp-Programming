@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\multidimensionalArrays\bin\Debug\multidimensionalArrays.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\multidimensionalArrays\bin\Debug\multidimensionalArrays.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\multidimensionalArrays\bin\Debug\multidimensionalArrays.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\multidimensionalArrays\obj\Debug\multidimensionalArrays.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\multidimensionalArrays\obj\Debug\multidimensionalArrays.pdb

@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\JoiningStrings\bin\Debug\JoiningStrings.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\JoiningStrings\bin\Debug\JoiningStrings.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\JoiningStrings\bin\Debug\JoiningStrings.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\JoiningStrings\obj\Debug\JoiningStrings.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\JoiningStrings\obj\Debug\JoiningStrings.pdb

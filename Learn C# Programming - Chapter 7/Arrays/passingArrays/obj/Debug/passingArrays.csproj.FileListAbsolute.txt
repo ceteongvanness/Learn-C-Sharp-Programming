@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\passingArrays\bin\Debug\passingArrays.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\passingArrays\bin\Debug\passingArrays.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\passingArrays\bin\Debug\passingArrays.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\passingArrays\obj\Debug\passingArrays.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Arrays\passingArrays\obj\Debug\passingArrays.pdb

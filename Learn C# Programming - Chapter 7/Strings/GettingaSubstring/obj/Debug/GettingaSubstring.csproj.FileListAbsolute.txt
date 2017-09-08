@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\GettingaSubstring\bin\Debug\GettingaSubstring.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\GettingaSubstring\bin\Debug\GettingaSubstring.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\GettingaSubstring\bin\Debug\GettingaSubstring.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\GettingaSubstring\obj\Debug\GettingaSubstring.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\GettingaSubstring\obj\Debug\GettingaSubstring.pdb

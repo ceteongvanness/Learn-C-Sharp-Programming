@@ -1,0 +1,6 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\comparingStrings\bin\Debug\comparingStrings.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\comparingStrings\bin\Debug\comparingStrings.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\comparingStrings\bin\Debug\comparingStrings.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\comparingStrings\obj\Debug\comparingStrings.csprojResolveAssemblyReference.cache
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\comparingStrings\obj\Debug\comparingStrings.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\comparingStrings\obj\Debug\comparingStrings.pdb

@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\StringContainsString\bin\Debug\StringContainsString.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\StringContainsString\bin\Debug\StringContainsString.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\StringContainsString\bin\Debug\StringContainsString.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\StringContainsString\obj\Debug\StringContainsString.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Strings\StringContainsString\obj\Debug\StringContainsString.pdb
