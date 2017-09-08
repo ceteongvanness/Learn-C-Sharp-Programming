@@ -1,0 +1,6 @@
+c:\users\ceteo\documents\visual studio 2017\Projects\TypeConversionApplication\TypeConversionApplication\bin\Debug\TypeConversionApplication.exe.config
+c:\users\ceteo\documents\visual studio 2017\Projects\TypeConversionApplication\TypeConversionApplication\bin\Debug\TypeConversionApplication.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\TypeConversionApplication\TypeConversionApplication\bin\Debug\TypeConversionApplication.pdb
+c:\users\ceteo\documents\visual studio 2017\Projects\TypeConversionApplication\TypeConversionApplication\obj\Debug\TypeConversionApplication.csprojResolveAssemblyReference.cache
+c:\users\ceteo\documents\visual studio 2017\Projects\TypeConversionApplication\TypeConversionApplication\obj\Debug\TypeConversionApplication.exe
+c:\users\ceteo\documents\visual studio 2017\Projects\TypeConversionApplication\TypeConversionApplication\obj\Debug\TypeConversionApplication.pdb
