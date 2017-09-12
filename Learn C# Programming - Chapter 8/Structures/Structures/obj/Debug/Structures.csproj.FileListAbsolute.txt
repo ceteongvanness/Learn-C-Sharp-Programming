@@ -1,0 +1,6 @@
+c:\users\mon\documents\visual studio 2013\Projects\Structures\Structures\bin\Debug\Structures.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\Structures\Structures\bin\Debug\Structures.exe
+c:\users\mon\documents\visual studio 2013\Projects\Structures\Structures\bin\Debug\Structures.pdb
+c:\users\mon\documents\visual studio 2013\Projects\Structures\Structures\obj\Debug\Structures.csprojResolveAssemblyReference.cache
+c:\users\mon\documents\visual studio 2013\Projects\Structures\Structures\obj\Debug\Structures.exe
+c:\users\mon\documents\visual studio 2013\Projects\Structures\Structures\obj\Debug\Structures.pdb

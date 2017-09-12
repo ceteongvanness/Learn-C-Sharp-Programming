@@ -1,0 +1,5 @@
+c:\users\mon\documents\visual studio 2013\Projects\Structures\ClassvsStrutures\bin\Debug\ClassvsStrutures.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\Structures\ClassvsStrutures\bin\Debug\ClassvsStrutures.exe
+c:\users\mon\documents\visual studio 2013\Projects\Structures\ClassvsStrutures\bin\Debug\ClassvsStrutures.pdb
+c:\users\mon\documents\visual studio 2013\Projects\Structures\ClassvsStrutures\obj\Debug\ClassvsStrutures.exe
+c:\users\mon\documents\visual studio 2013\Projects\Structures\ClassvsStrutures\obj\Debug\ClassvsStrutures.pdb

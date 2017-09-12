@@ -1,0 +1,6 @@
+c:\users\mon\documents\visual studio 2013\Projects\Enums\Enums\bin\Debug\Enums.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\Enums\Enums\bin\Debug\Enums.exe
+c:\users\mon\documents\visual studio 2013\Projects\Enums\Enums\bin\Debug\Enums.pdb
+c:\users\mon\documents\visual studio 2013\Projects\Enums\Enums\obj\Debug\Enums.csprojResolveAssemblyReference.cache
+c:\users\mon\documents\visual studio 2013\Projects\Enums\Enums\obj\Debug\Enums.exe
+c:\users\mon\documents\visual studio 2013\Projects\Enums\Enums\obj\Debug\Enums.pdb
