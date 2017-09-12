@@ -1,0 +1,5 @@
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

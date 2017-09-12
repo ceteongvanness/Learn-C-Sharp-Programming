@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\MemberFunctions\bin\Debug\MemberFunctions.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\MemberFunctions\bin\Debug\MemberFunctions.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\MemberFunctions\bin\Debug\MemberFunctions.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\MemberFunctions\obj\Debug\MemberFunctions.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\MemberFunctions\obj\Debug\MemberFunctions.pdb

@@ -1,0 +1,6 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\DefiningAClass\bin\Debug\DefiningAClass.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\DefiningAClass\bin\Debug\DefiningAClass.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\DefiningAClass\bin\Debug\DefiningAClass.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\DefiningAClass\obj\Debug\DefiningAClass.csprojResolveAssemblyReference.cache
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\DefiningAClass\obj\Debug\DefiningAClass.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\DefiningAClass\obj\Debug\DefiningAClass.pdb

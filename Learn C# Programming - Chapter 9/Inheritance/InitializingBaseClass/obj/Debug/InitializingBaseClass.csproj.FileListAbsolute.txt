@@ -1,0 +1,5 @@
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\InitializingBaseClass\bin\Debug\InitializingBaseClass.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\InitializingBaseClass\bin\Debug\InitializingBaseClass.exe
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\InitializingBaseClass\bin\Debug\InitializingBaseClass.pdb
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\InitializingBaseClass\obj\Debug\InitializingBaseClass.exe
+c:\users\mon\documents\visual studio 2013\Projects\Inheritance\InitializingBaseClass\obj\Debug\InitializingBaseClass.pdb

@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticMembers\bin\Debug\StaticMembers.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticMembers\bin\Debug\StaticMembers.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticMembers\bin\Debug\StaticMembers.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticMembers\obj\Debug\StaticMembers.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticMembers\obj\Debug\StaticMembers.pdb

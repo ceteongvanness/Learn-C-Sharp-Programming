@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\Destructors\bin\Debug\Destructors.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\Destructors\bin\Debug\Destructors.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\Destructors\bin\Debug\Destructors.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\Destructors\obj\Debug\Destructors.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\Destructors\obj\Debug\Destructors.pdb

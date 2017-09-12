@@ -1,0 +1,5 @@
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticFunctions\bin\Debug\StaticFunctions.exe.config
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticFunctions\bin\Debug\StaticFunctions.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticFunctions\bin\Debug\StaticFunctions.pdb
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticFunctions\obj\Debug\StaticFunctions.exe
+c:\Users\MON\documents\visual studio 2013\Projects\Classes\StaticFunctions\obj\Debug\StaticFunctions.pdb
