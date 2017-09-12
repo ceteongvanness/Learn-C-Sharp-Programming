@@ -1,0 +1,5 @@
+c:\users\mon\documents\visual studio 2013\Projects\Namespaces\NestedNamespaces\bin\Debug\NestedNamespaces.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\Namespaces\NestedNamespaces\bin\Debug\NestedNamespaces.exe
+c:\users\mon\documents\visual studio 2013\Projects\Namespaces\NestedNamespaces\bin\Debug\NestedNamespaces.pdb
+c:\users\mon\documents\visual studio 2013\Projects\Namespaces\NestedNamespaces\obj\Debug\NestedNamespaces.exe
+c:\users\mon\documents\visual studio 2013\Projects\Namespaces\NestedNamespaces\obj\Debug\NestedNamespaces.pdb
