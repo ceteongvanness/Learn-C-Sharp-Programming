@@ -1,0 +1,1 @@
+c:\users\mon\documents\visual studio 2013\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config

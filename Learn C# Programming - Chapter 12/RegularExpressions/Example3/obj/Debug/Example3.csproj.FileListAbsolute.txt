@@ -1,0 +1,5 @@
+c:\users\mon\documents\visual studio 2013\Projects\RegularExpressions\Example3\bin\Debug\Example3.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\RegularExpressions\Example3\bin\Debug\Example3.exe
+c:\users\mon\documents\visual studio 2013\Projects\RegularExpressions\Example3\bin\Debug\Example3.pdb
+c:\users\mon\documents\visual studio 2013\Projects\RegularExpressions\Example3\obj\Debug\Example3.exe
+c:\users\mon\documents\visual studio 2013\Projects\RegularExpressions\Example3\obj\Debug\Example3.pdb

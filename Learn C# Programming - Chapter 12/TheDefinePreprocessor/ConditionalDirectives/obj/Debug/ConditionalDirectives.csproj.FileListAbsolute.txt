@@ -1,0 +1,5 @@
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\ConditionalDirectives\bin\Debug\ConditionalDirectives.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\ConditionalDirectives\bin\Debug\ConditionalDirectives.exe
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\ConditionalDirectives\bin\Debug\ConditionalDirectives.pdb
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\ConditionalDirectives\obj\Debug\ConditionalDirectives.exe
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\ConditionalDirectives\obj\Debug\ConditionalDirectives.pdb

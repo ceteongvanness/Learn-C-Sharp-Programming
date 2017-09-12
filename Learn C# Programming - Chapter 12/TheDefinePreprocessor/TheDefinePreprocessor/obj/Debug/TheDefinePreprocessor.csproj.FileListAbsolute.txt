@@ -1,0 +1,6 @@
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\TheDefinePreprocessor\bin\Debug\TheDefinePreprocessor.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\TheDefinePreprocessor\bin\Debug\TheDefinePreprocessor.exe
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\TheDefinePreprocessor\bin\Debug\TheDefinePreprocessor.pdb
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\TheDefinePreprocessor\obj\Debug\TheDefinePreprocessor.csprojResolveAssemblyReference.cache
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\TheDefinePreprocessor\obj\Debug\TheDefinePreprocessor.exe
+c:\users\mon\documents\visual studio 2013\Projects\TheDefinePreprocessor\TheDefinePreprocessor\obj\Debug\TheDefinePreprocessor.pdb
