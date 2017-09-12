@@ -1,0 +1,5 @@
+c:\users\mon\documents\visual studio 2013\Projects\OperatorOverloading\Preceding\bin\Debug\Preceding.exe.config
+c:\users\mon\documents\visual studio 2013\Projects\OperatorOverloading\Preceding\bin\Debug\Preceding.exe
+c:\users\mon\documents\visual studio 2013\Projects\OperatorOverloading\Preceding\bin\Debug\Preceding.pdb
+c:\users\mon\documents\visual studio 2013\Projects\OperatorOverloading\Preceding\obj\Debug\Preceding.exe
+c:\users\mon\documents\visual studio 2013\Projects\OperatorOverloading\Preceding\obj\Debug\Preceding.pdb
